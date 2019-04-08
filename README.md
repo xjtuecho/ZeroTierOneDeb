@@ -25,6 +25,6 @@ c6463b668648a04040f0ee63d409a668 *zerotier-one_1.2.12_amd64.deb
 
 - amd64 version was built on ubuntu 18.04 64bits.
 - aarch64 version was built on phicomm N1, armbian, Amlogic S905D.
-- armhf version was built on raspberry b+, raspbian, Broadcom BCM2835.
+- armhf version was built on raspberry pi b+, raspbian, Broadcom BCM2835.
 
 use `sudo dpkg -i zerotier-one_1.2.12_XXXXX.deb` to install package.
